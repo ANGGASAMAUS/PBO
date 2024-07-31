@@ -1,0 +1,6 @@
+Nama: Angga 
+Umur: 18
+Alamat: Ngalam
+Nama: Syafaq
+Umur: 99
+Alamat: Akhirat
